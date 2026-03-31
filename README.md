@@ -5,6 +5,6 @@ Homebrew tap for [universal-claude-code-config](https://github.com/kristianhanse
 ## Usage
 
 ```bash
-brew tap kristianhansen/tap
+brew tap kristianhansen/universal-claude-code-config
 brew install claude-config
 ```
